@@ -3,7 +3,7 @@
 client_id = "71bc1b7e50ef808886778d84485d2603"
 name = "facturacion-app"
 handle = "facturacion-app"
-application_url = "https://trigger-josh-contributors-signals.trycloudflare.com"
+application_url = "https://babes-rep-session-recipients.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://trigger-josh-contributors-signals.trycloudflare.com/auth/callback",
-  "https://trigger-josh-contributors-signals.trycloudflare.com/auth/shopify/callback",
-  "https://trigger-josh-contributors-signals.trycloudflare.com/api/auth/callback"
+  "https://babes-rep-session-recipients.trycloudflare.com/auth/callback",
+  "https://babes-rep-session-recipients.trycloudflare.com/auth/shopify/callback",
+  "https://babes-rep-session-recipients.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
